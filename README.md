@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justncheng
 - 👀 I’m interested in coding and basketball 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
 
